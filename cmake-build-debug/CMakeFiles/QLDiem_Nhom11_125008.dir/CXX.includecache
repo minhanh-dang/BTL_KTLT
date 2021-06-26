@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dang Minh Anh/CLionProjects/QLDiem_Nhom11_125008/main.cpp
+cstring
+-
+iostream
+-
+fstream
+-
+
